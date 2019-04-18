@@ -97,6 +97,7 @@ menu:
   categories: /categories/ || th
   archives: /archives/ || archive
   tags: /tags/ || tags
+  Photos: /photos/ || image
   links: /links/ || link
   about: /about/ || user
   #schedule: /schedule/ || calendar
@@ -113,6 +114,7 @@ menu_icons:
   tags: tags
   archives: archive
   links: link
+  Photos: image
   #commonweal: heartbeat
 
 
