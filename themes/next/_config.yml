@@ -21,6 +21,7 @@ override: false
 # To get or check favicons visit: https://realfavicongenerator.net
 # Put your favicons into `hexo-site/source/` (recommend) or `hexo-site/themes/next/source/images/` directory.
 
+
 # Default NexT favicons placed in `hexo-site/themes/next/source/images/` directory.
 # And if you want to place your icons in `hexo-site/source/` root directory, you must remove `/images` prefix from pathes.
 
@@ -239,12 +240,10 @@ post_meta:
 
 # Post wordcount display settings
 # Dependencies: https://github.com/willin/hexo-wordcount
-symbols_count_time:
-  separated_meta: true
-  item_text_post: true
-  item_text_total: false
-  awl: 4
-  wpm: 275
+post_wordcount:
+  item_text: true
+  wordcount: true
+  min2read: true
 
 # Wechat Subscriber
 #wechat_subscriber:
@@ -438,7 +437,7 @@ gitment:
 # Warning: JiaThis does not support https.
 #jiathis:
   ##uid: Get this uid from http://www.jiathis.com/
-#add_this_id: ra-5cb5637ce12cd514
+  #add_this_id: ra-5cb5637ce12cd514
 
 # Share
 #duoshuo_share: true
