@@ -96,8 +96,9 @@ menu:
   home: / || home
   categories: /categories/ || th
   archives: /archives/ || archive
-  #about: /about/ || user
   tags: /tags/ || tags
+  links: /links/ || link
+  about: /about/ || user
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
@@ -111,6 +112,7 @@ menu_icons:
   categories: th
   tags: tags
   archives: archive
+  links: link
   #commonweal: heartbeat
 
 
