@@ -89,9 +89,7 @@
   {% include '_third-party/scroll-cookie.swig' %}
   {% include '_third-party/exturl.swig' %}
 
-  <script type="text/javascript" src="https://unpkg.com/minigrid@3.1.1/dist/minigrid.min.js"></script>
-  <link rel="stylesheet" href="/photos/photos.css">
-  <script type="text/javascript" src="/photos/photo.js"></script>
+
 
 </body>
 </html>
