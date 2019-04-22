@@ -1,9 +1,10 @@
 ---
 title: 私はNetflix配信以外使えない
-date: 2019-04-18 09:53:55
 tags:
-- インターネット
+  - インターネット
 categories: インターネット
+abbrlink: 4f1131af
+date: 2019-04-18 09:53:55
 ---
 　　私知ってる限り、日本のネット番組配信サービスはいくつがあります。NetflixとかAmazon Prime VideoとかhuluとかAbemaTvとかFODとか。でも、私は外国人として、Netflixしか使えない。原因は？<!--more-->
 　　もとも重要の原因は、字幕。
