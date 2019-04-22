@@ -25,37 +25,13 @@ comments: false
 
 
 {% note primary %}
-    ##### This blog uses non-login comment system. You can comment without NickName & E-Mail. 
-    BUT if you want to show a Avatar or Profile picture. You have to register [Gravatar | English](http://en.gravatar.com/) or [Gravatar | 日本語](http://ja.gravatar.com/)　to upload your Avatar or Profile picture. After that, put in the E-Mail adress you registered to Gravatar, the Avatar or Profile picture will show. However, NickName is always not needed and you can use anything you like.
+    ##### Update History. 
+    We now use the domain [davidjim.info](https://www.davidjim.info/). BUT we may change the website adress for some reason. We will notice about the new domain 30 days before the change.
 {% endnote %}
 
 
 
 {% note primary %}
-    ##### show();
+    ##### This blog uses non-login comment system. You can comment without NickName & E-Mail. 
+    BUT if you want to show a Avatar or Profile picture. You have to register [Gravatar | English](http://en.gravatar.com/) or [Gravatar | 日本語](http://ja.gravatar.com/)　to upload your Avatar or Profile picture. After that, put in the E-Mail adress you registered to Gravatar, the Avatar or Profile picture will show. However, NickName is always not needed and you can use anything you like.
 {% endnote %}
-
-
-
-<html>
-<head>
-<script type="text/javascript">
-window.onload = function() { 
-var show = document.getElementById("show"); 
-setInterval(function() { 
-var time = new Date(); 
-// 程序计时的月从0开始取值后+1 
-var m = time.getMonth() + 1; 
-//根据自己博客的创建时间更改数值 
-var t = "提示内容"+(time.getFullYear()-2019/03/05) + "年" + (m-3) + "月" 
-+ time.getDate() + "天 " + time.getHours() + "时" 
-+ time.getMinutes() + "分" + time.getSeconds() + "秒"; 
-show.innerHTML = t; 
-}, 1000); 
-}; 
-</script>
-</head>
-<body>
-show();
-</body>
-</html>
