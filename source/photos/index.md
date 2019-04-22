@@ -1,6 +1,5 @@
 ---
 no_toc: true
-comments: false
 ---
 <style type="text/css">
 	.main-inner{

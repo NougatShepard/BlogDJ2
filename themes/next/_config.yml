@@ -97,6 +97,9 @@ menu:
   categories: /categories/ || th
   archives: /archives/ || archive
   tags: /tags/ || tags
+  本: /books/ || book
+  アニメ: /movies/ || film
+  ゲーム: /games/ || gamepad
   Photos: /photos/ || image
   links: /links/ || link
   about: /about/ || user
@@ -112,6 +115,9 @@ menu_icons:
   #about: user
   categories: th
   tags: tags
+  本: book
+  アニメ: film
+  ゲーム: gamepad
   archives: archive
   links: link
   Photos: image

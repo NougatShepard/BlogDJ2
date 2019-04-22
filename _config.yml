@@ -105,3 +105,17 @@ baidusitemap:
 # Table Of Contents in the Sidebar
 toc:
   enable: true
+
+douban:
+  user: SakuradaYuzu
+  builtin: true
+  book:
+    title: '本'
+    quote: 'Books'
+  movie:
+    title: 'アニメ'
+    quote: 'Anime'
+  game:
+    title: 'ゲーム'
+    quote: 'Games'
+  timeout: 20000
