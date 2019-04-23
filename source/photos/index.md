@@ -1,5 +1,6 @@
 ---
 no_toc: true
+use motion: false
 ---
 <style type="text/css">
 	.main-inner{
