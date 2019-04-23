@@ -241,6 +241,7 @@ function loadXMLDoc(xmlUrl)
 }
 
 var xmllink="https://sakuradayuzu-1259072117.cos.ap-tokyo.myqcloud.com"
+// var xmllink="https://console.cloud.google.com/storage/browser/sakuradayuzu"
 //访问域名链接就是我上面提到的那个访问域名xml链接
 
 xmlDoc=loadXMLDoc(xmllink);
