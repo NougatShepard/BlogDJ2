@@ -1,6 +1,7 @@
 ---
 no_toc: true
 use motion: false
+comments: false
 ---
 <style type="text/css">
 	.main-inner{
