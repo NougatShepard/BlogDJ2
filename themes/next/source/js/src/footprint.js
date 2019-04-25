@@ -1,11 +1,11 @@
 var myChart = echarts.init(document.getElementById('myMap'));
 
 var data = [
-    {name: '昆明', value: ['2011.09 ～ 2014.06', 'こんめい: 雲南省 大学 高頻度取引専攻']},
-    {name: '西安', value: ['2013.06', 'せいあん_華山(かざん)']},
-    {name: '蘇州', value: ['2014.09 ～ 2017.06', 'そしゅう: ○○情報処理技術研究所']},
-    {name: '郑州', value: ['2017.07 ～ 2017.11', 'Sterling Trader Inc & Hold Brothers Capital 関係の○○証券会社']},
-    {name: '大連', value: ['2017.12 ～ 2018.05', 'だいれん:']},   
+    {name: '昆明', value: ['2011.09 ～ 2014.06','こんめい: 雲南省','大学','高頻度取引専攻']},
+    {name: '西安', value: ['2013.06', 'せいあん','華山','かざん']},
+    {name: '蘇州', value: ['2014.09 ～ 2017.06', 'そしゅう: ○○情報処理技術研究所','','']},
+    {name: '郑州', value: ['2017.07 ～ 2017.11', 'Sterling Trader Inc &','Hold Brothers Capital','関係の○○証券会社']},
+    {name: '大連', value: ['2017.12 ～ 2018.05', 'だいれん:','','']},   
 ];
 var geoCoordMap = {
     '昆明':[102.73,25.04],
@@ -43,13 +43,19 @@ option = {
         formatter: function (params) {
             name = params.name
             time = params.value[2]
-            describe = params.value[3]
+            describe1 = params.value[3]
+            describe2 = params.value[4]
+            describe3 = params.value[5]
             return '<div style="border-bottom: 1px solid rgba(255,255,255,.3); font-size: 18px;padding-bottom: 7px;margin-bottom: 7px">'
                 + name
                 + '</div>'
                 + time
                 + '<br>'
-                + describe;
+                + describe1
+                + '<br>'
+                + describe2
+                + '<br>'
+                + describe3;
         }
     },
     geo: {

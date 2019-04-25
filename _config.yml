@@ -119,3 +119,26 @@ douban:
     title: 'ゲーム'
     quote: 'Games'
   timeout: 20000
+
+  # hexo-neat
+neat_enable: true # 启用neat
+
+# 对html优化
+neat_html:          
+  enable: true
+  exclude:
+  
+# 对css优化
+neat_css:
+  enable: true
+  exclude:
+    - '*.min.css'
+
+# 对js优化
+neat_js:
+  enable: true
+  mangle: true
+  output:
+  compress:
+  exclude:
+    - '*.min.js'
