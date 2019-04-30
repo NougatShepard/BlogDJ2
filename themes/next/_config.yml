@@ -264,10 +264,10 @@ post_wordcount:
   #description: ex. subscribe to my blog by scanning my public wechat account
 
 # Reward
-#reward_comment: Donate comment here
+reward_comment: Support us by BCH(Bitcoin ABC/BAB).
 #wechatpay: /images/wechatpay.jpg
-#alipay: /images/alipay.jpg
-#bitcoin: /images/bitcoin.png
+alipay: /images/BitcoinCash.png
+#BCH: /images/151TvYb3oqo5FZAYuWLcjymiWWFDzxpJak.png
 
 # Declare license on posts
 post_copyright:
