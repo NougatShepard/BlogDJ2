@@ -86,12 +86,12 @@ deploy:
   repo: https://github.com/NougatShepard/BlogDJ2.git
   branch: run-page
 
-algolia:
-  applicationID: 'FRN0U01VAI'
-  apiKey: '0aa6c7c15bb0a8d84bf0d804f6133fcc'
-  adminApiKey: '63d13a6b1079070e350118853c8c001b'
-  indexName: 'Search'
-  chunkSize: 5000
+# algolia:
+#   applicationID: 'FRN0U01VAI'
+#   apiKey: '0aa6c7c15bb0a8d84bf0d804f6133fcc'
+#   adminApiKey: '63d13a6b1079070e350118853c8c001b'
+#   indexName: 'Search'
+#   chunkSize: 5000
 
 symbols_count_time:
   symbols: true
