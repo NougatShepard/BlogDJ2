@@ -25,6 +25,15 @@ comments: false
 
 
 {% note primary %}
+    Google Project Fi. $10/GB & $20 per month unlimited call & text around the world. Free after 6GB.
+    ##### The Fi Love Code: NUDC71.
+    [Google Project Fi](https://g.co/fi/r/NUDC71/)
+    After you actived your Fi Service within 30 Days for 30 days, we will both get $20 Fi credit.
+{% endnote %}
+
+
+
+{% note primary %}
     ##### Update History. 
     We now use the domain [davidjim.info](https://www.davidjim.info/). BUT we may change the website adress for some reason. We will notice about the new domain 30 days before the change.
 {% endnote %}
