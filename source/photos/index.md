@@ -249,7 +249,7 @@ xmlDoc=loadXMLDoc(xmllink);
 var urls=xmlDoc.getElementsByTagName('Key');
 var date=xmlDoc.getElementsByTagName('LastModified');
 var wid=250;
-var showNum=12; //每个相册一次展示多少照片
+var showNum=100; //每个相册一次展示多少照片
 if ((window.innerWidth)>1200) {wid=(window.innerWidth*3)/18;}
 var box=document.getElementById('box');
 var i=0;
@@ -283,7 +283,7 @@ for (var i = 0; i < content.length; i++) {
 	for (var j = 1; j < content[i].length && j < showNum+1; j++) {
 		var con=content[i][j].url;
 		var item=document.createElement("li");
-		item.innerHTML="<div class=imgbox id=imgbox style=height:"+wid+"px;><img class=imgitem src="+xmllink+'/'+title+con+" alt="+con+"></div><span>"+con.substring(0,con.length-4)+"</span><p>上传于"+content[i][j].date+"</p>";
+		item.innerHTML="<div class=imgbox id=imgbox style=height:"+wid+"px;><img class=imgitem src="+xmllink+'/'+title+con+" alt="+con+"></div><span>"+con.substring(0,con.length-4);
 		conBox.appendChild(item);
 	}
 	if(content[i].length > showNum){
