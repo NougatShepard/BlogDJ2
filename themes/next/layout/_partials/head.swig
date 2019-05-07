@@ -123,7 +123,16 @@
   })
 }}
 
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-8579834226373624"
+     data-ad-slot="9047438286"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 {# Export some HEXO Configurations to Front-End #}
 <script type="text/javascript" id="hexo.configurations">
   var NexT = window.NexT || {};
