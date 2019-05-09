@@ -3,6 +3,7 @@ title: '谁是监视社会, Japan or China'
 tags:
   - つぶやき
 categories: つぶやき
+top: 12
 abbrlink: 2fc77d95
 date: 2019-05-03 16:29:11
 ---

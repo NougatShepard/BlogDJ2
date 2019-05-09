@@ -3,6 +3,7 @@ title: 日本のIT現場
 tags:
   - 日本のIT現場
 categories: 日本のIT現場
+top: 19
 abbrlink: 63556f52
 date: 2019-05-08 15:22:31
 ---
