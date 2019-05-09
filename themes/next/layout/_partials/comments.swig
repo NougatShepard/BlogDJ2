@@ -83,3 +83,17 @@
   {% endif %}
 
 {% endif %}
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_tracking_id = "nougatshepard-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_linkid = "5942a4d7b7e47cb582de1f9ce4b7b493";
+amzn_assoc_asins = "B07CXG6C9W,B0716ZFWWV,B0748MTZ1C,B07GBZ4Q68";
+amzn_assoc_title = "Editor's Choice";
+amzn_assoc_search_bar = "false";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
