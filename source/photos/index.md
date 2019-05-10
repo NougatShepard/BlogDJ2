@@ -4,7 +4,7 @@ use motion: false
 comments: false
 ---
 <style type="text/css">
-	.main-inner{
+	/* .main-inner{
 		width: 100%;
 	}
 	.main {
@@ -23,7 +23,7 @@ comments: false
 		background-attachment: unset;
 		background-size: 100%;
 		/*background-position: top left;*/
-	}
+	/* }
 	.header{
 		background: rgba(28, 25, 25, 0.6);
 		border-bottom: unset;
@@ -31,7 +31,7 @@ comments: false
 	.menu .menu-item a{
 		    font-weight: 300;
     		color: #e6eaed;
-	}
+	} */ */
 
 	.imgbox{
 	 width: 100%;
@@ -80,7 +80,7 @@ comments: false
 		width: 100%;
 	}
 
-	div#comments.comments.v {
+	/* div#comments.comments.v {
     border: 0px;
     margin: auto !important;
     margin-top: unset;
@@ -97,8 +97,8 @@ div#posts.posts-expand {
 }
 .posts-expand .post-body img{
 	padding: 0px !important;
-}
-.box p{
+} */
+/* .box p{
 	display: block;
     background: #121212;
     color: #fff;
@@ -148,9 +148,9 @@ div#posts.posts-expand {
     background-color: #121212;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
-}
+} */
 
-@media (max-width: 767px){
+/* @media (max-width: 767px){
 	.box li {
     width: 100%;
 }
@@ -177,9 +177,9 @@ div#posts.posts-expand {
 }
 
 
-}
+} */
 
-@media (min-width: 1600px){
+/* @media (min-width: 1600px){
 	.container .main-inner{
 		width: 100%;
 	}
@@ -194,7 +194,7 @@ div#posts.posts-expand {
 
 .v .vwrap .vmark .valert .vcode {
     background: #00050b !important;
-}
+} */
 
 </style>
 
