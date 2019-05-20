@@ -7,6 +7,8 @@ top: 14
 abbrlink: 4f1131af
 date: 2019-04-18 09:53:55
 ---
+ ![Netflix](https://picsource-1259072117.cos.ap-tokyo.myqcloud.com/picsource/Netflix.jpg)
+<!--more-->
 　　私知ってる限り、日本のネット番組配信サービスはいくつがあります。NetflixとかAmazon Prime VideoとかhuluとかAbemaTvとかFODとか。でも、私は外国人として、Netflixしか使えない。原因は？<!--more-->
 　　もとも重要の原因は、字幕。
 　　Netflixが、日本のアニメとかドラマとかに対して、字幕サービスを提供しています。
