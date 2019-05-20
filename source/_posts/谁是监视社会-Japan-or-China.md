@@ -8,7 +8,10 @@ abbrlink: 2fc77d95
 date: 2019-05-03 16:29:11
 ---
 &emsp;&emsp;日本的新闻媒体热衷于报道中国的负面新闻，其中很热门的一个话题是：“中国是一个监视社会”。好吧，日本媒体的姿势水平令人捉急，在谈论别人之前能先反思一下自己吗？
-&emsp;&emsp;请问，日本是一个监视社会吗？<!--more-->
+&emsp;&emsp;请问，日本是一个监视社会吗？
+
+![a girl of japan](https://picsource-1259072117.cos.ap-tokyo.myqcloud.com/picsource/girl%20of%20japan.jpg)
+<!--more-->
 &emsp;&emsp;答案是，日本是一个监视社会。
 
 {% note primary %}
