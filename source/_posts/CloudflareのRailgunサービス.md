@@ -7,7 +7,9 @@ top: 29
 abbrlink: 84b87417
 date: 2019-05-20 14:37:43
 ---
+ ![network](https://picsource-1259072117.cos.ap-tokyo.myqcloud.com/picsource/network.jpg)
 <!--more-->
+
 {% note primary %}
     ## Railgun™配信元(はいしんもと)ネットワークオプティマイザー(optimism)
 {% endnote %}
