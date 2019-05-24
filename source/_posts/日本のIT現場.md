@@ -13,3 +13,10 @@ date: 2019-05-08 15:22:31
     ## [「IT業界クソ現場オブザイヤー」現場からの悲痛な声が数多く届く](https://shachiku.org/archives/1849)
     バックアップアドレス： null
 {% endnote %}
+
+
+
+{% note primary %}
+    ## [【IT業界あるある】「本当にあったIT怖い話」が本当に怖かったwww](https://shachiku.org/archives/1892)
+    バックアップアドレス： null
+{% endnote %}
