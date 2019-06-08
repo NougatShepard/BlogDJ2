@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.davidjim.info/about/index.html</loc>
+    
+    <lastmod>2019-06-08T04:26:12.340Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.davidjim.info/posts/f5fc4461/</loc>
     
     <lastmod>2019-06-01T09:06:02.827Z</lastmod>
@@ -37,14 +44,14 @@
   </url>
   
   <url>
-    <loc>https://www.davidjim.info/posts/e31c0293/</loc>
+    <loc>https://www.davidjim.info/posts/191ddb73/</loc>
     
     <lastmod>2019-05-24T12:06:23.808Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.davidjim.info/posts/191ddb73/</loc>
+    <loc>https://www.davidjim.info/posts/e31c0293/</loc>
     
     <lastmod>2019-05-24T12:06:23.808Z</lastmod>
     
@@ -177,14 +184,14 @@
   </url>
   
   <url>
-    <loc>https://www.davidjim.info/posts/f8073739/</loc>
+    <loc>https://www.davidjim.info/posts/53bf1d9d/</loc>
     
     <lastmod>2019-05-20T13:23:16.012Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.davidjim.info/posts/53bf1d9d/</loc>
+    <loc>https://www.davidjim.info/posts/f8073739/</loc>
     
     <lastmod>2019-05-20T13:23:16.012Z</lastmod>
     
@@ -222,13 +229,6 @@
     <loc>https://www.davidjim.info/posts/385f0de9/</loc>
     
     <lastmod>2019-05-09T13:49:38.410Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.davidjim.info/about/index.html</loc>
-    
-    <lastmod>2019-05-08T15:03:18.134Z</lastmod>
     
   </url>
   
