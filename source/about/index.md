@@ -34,7 +34,11 @@ comments: false
 
 
 {% note primary %}
-    ##### Update History. 
+    ##### Update History.
+    ##### 2019/06.
+    For the reason as we known, The site douban helps Chinese government inspect the contents we bulit when we use the douban API to constract our site. The douban account we used before was deleted because we attached Youtube links into douban movie.
+    We will not update the books/movies/games column any more and delete the column in a suitable time, and build a movie article in our post.
+    ##### 2019/04.
     We now use the domain [davidjim.info](https://www.davidjim.info/). BUT we may change the website adress for some reason. We will notice about the new domain 30 days before the change.
 {% endnote %}
 

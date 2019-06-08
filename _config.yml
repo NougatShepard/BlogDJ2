@@ -111,7 +111,7 @@ toc:
 
 douban:
   user: SakuradaYuzu
-  builtin: true
+  builtin: false
   book:
     title: '本'
     quote: 'Books'
